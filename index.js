@@ -134,4 +134,4 @@ client.on("message", (message) => {
     }
 })
 
-client.login("NDQwMDc2MDgwMzg5NTU0MTc2.Dcc3kA.29XdDwSjcVE5XhdPChUGQQNHLrI")
+client.login(process.env.TOKEN)
