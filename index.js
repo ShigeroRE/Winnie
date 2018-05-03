@@ -80,7 +80,7 @@ client.on("message", (message) => {
 
     if (message.content.includes("Ô") && message.content.includes("Jean-Christophe"))
     {
-        message.reply("Jean-Christophe te remercie, et t'accompagnera dans tous tes voyages, mais ne te feras pas voyager dans la Forêt des rêves bleu.")
+        message.reply("Jean-Christophe te remercie, et t'accompagnera dans tous tes voyages, et t'aidera à découvrir de nouveaux horizons.")
     }
 
     if (message.content.includes("dieux") && message.content.includes("Panthéon"))
